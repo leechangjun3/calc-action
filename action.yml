@@ -1,4 +1,4 @@
-name: Calc Action
+name: calc Action
 runs:
   using: "composite"
   steps:
