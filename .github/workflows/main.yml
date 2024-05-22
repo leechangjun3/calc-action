@@ -4,4 +4,4 @@ jobs:
   calculate:
     runs-on: ubuntu-latest
     steps:
-      - uses: lechangjun3/calc-action@main
+      - uses: leechangjun3/calc-action@main
